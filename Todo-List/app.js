@@ -3,7 +3,7 @@ const todoInput = document.querySelector('.todo-input');
 const todoButton = document.querySelector('.todo-button');
 const todoList = document.querySelector('.todo-list');
 const filterOption = document.querySelector(".filter-todo");
-
+// NEW AREA FOR FEATURE BRANCH
 //Event listeners
 todoButton.addEventListener("click", addTodo);
 todoList.addEventListener('click', deleteCheck);
